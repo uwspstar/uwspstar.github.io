@@ -1,11 +1,73 @@
 title: Aaron (Xing) Wang
 description: Focus on learning one thing for 20 consecutive days.
 theme: jekyll-theme-minimal
+
+# Site settings
+title: Aaron (Xing) Wang
+description: Focus on learning one thing for 20 consecutive days.
+theme: jekyll-theme-minimal
+
+# URL settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://uwspstar.github.io" # the base hostname & protocol for your site
+
 # Author information
 author:
   name: Aaron (Xing) Wang
   email: uwspstar@gmail.com
-  avatar: /assets/images/avatar.jpg  # Path to your avatar image
+  avatar: /assets/images/avatar.jpg
   github: https://github.com/uwspstar
-  linkedin: https://www.linkedin.com/in/aaron-xing-wang
+  linkedin: https://www.linkedin.com/in/xing-wang-3314a04/
+
+# Social media links (Optional)
+twitter_username: uwspstar
+github_username: uwspstar
+linkedin_username: aaron-xing-wang
+
+# Google Analytics (Optional)
+#google_analytics: UA-XXXXXXXX-X
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# SEO settings
+permalink: pretty
+title_separator: " | "
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins (Optional - if you plan to use GitHub Pages plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation (Optional - if you want to add a menu)
+# You can edit these links to suit your site
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+
+# Customize the appearance (Optional)
+# You can adjust colors, fonts, and more using these variables
+sass:
+  style: compressed
+
+# Footer (Optional)
+footer_text: "© 2024 Aaron (Xing) Wang. All rights reserved."
+
+# Exclude files from the build (Optional)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
 

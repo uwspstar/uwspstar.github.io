@@ -1,3 +1,11 @@
 title: Aaron (Xing) Wang
 description: Focus on learning one thing for 20 consecutive days.
 theme: jekyll-theme-minimal
+# Author information
+author:
+  name: Aaron (Xing) Wang
+  email: uwspstar@gmail.com
+  avatar: /assets/images/avatar.jpg  # Path to your avatar image
+  github: https://github.com/uwspstar
+  linkedin: https://www.linkedin.com/in/aaron-xing-wang
+

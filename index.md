@@ -9,11 +9,6 @@ title: Home
 
 Hi, I'm Aaron (Xing) Wang. I focus on learning one thing for 20 consecutive days. This website showcases my projects and blogs.
 
-## Projects
-You can find all of my projects [here](/projects/).
-
 ## Blog
-Check out my latest blogs [here](/blog/).
+Check out my latest blogs [here](https://codebitwave.com/).
 
-## About Me
-Learn more about me on the [About](/about/) page.
